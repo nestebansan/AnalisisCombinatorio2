@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app>
+
+<servlet>
+  <servlet-name>CompararV</servlet-name>
+  <servlet-class>CompararV</servlet-class>
+</servlet>
+
+<servlet>
+  <servlet-name>V</servlet-name>
+  <servlet-class>V</servlet-class>
+</servlet>
+
+<servlet>
+  <servlet-name>VR</servlet-name>
+  <servlet-class>VR</servlet-class>
+</servlet>
+
+<servlet>
+  <servlet-name>CompararC</servlet-name>
+  <servlet-class>CompararC</servlet-class>
+</servlet>
+
+<servlet>
+  <servlet-name>C</servlet-name>
+  <servlet-class>C</servlet-class>
+</servlet>
+
+<servlet>
+  <servlet-name>CR</servlet-name>
+  <servlet-class>CR</servlet-class>
+</servlet>
+
+<servlet>
+  <servlet-name>CompararP</servlet-name>
+  <servlet-class>CompararP</servlet-class>
+</servlet>
+
+<servlet>
+  <servlet-name>P</servlet-name>
+  <servlet-class>P</servlet-class>
+</servlet>
+
+<servlet>
+  <servlet-name>PR</servlet-name>
+  <servlet-class>PR</servlet-class>
+</servlet>
+
+<servlet-mapping>
+  <servlet-name>CompararV</servlet-name>
+  <url-pattern>/CompararV</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+  <servlet-name>V</servlet-name>
+  <url-pattern>/V</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+  <servlet-name>VR</servlet-name>
+  <url-pattern>/VR</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+  <servlet-name>CompararC</servlet-name>
+  <url-pattern>/CompararC</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+  <servlet-name>C</servlet-name>
+  <url-pattern>/C</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+  <servlet-name>CR</servlet-name>
+  <url-pattern>/CR</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+  <servlet-name>CompararP</servlet-name>
+  <url-pattern>/CompararP</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+  <servlet-name>P</servlet-name>
+  <url-pattern>/P</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+  <servlet-name>PR</servlet-name>
+  <url-pattern>/PR</url-pattern>
+</servlet-mapping>
+
+</web-app>
